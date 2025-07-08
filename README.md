@@ -4,7 +4,7 @@
 
 </div>
 
------Nexus is a next-generation Layer 1 blockchain designed as a global, verifiable supercomputer for the AI era. It enables decentralized, trustless computation using zero-knowledge proofs via its custom zkVM. Developers and users can contribute compute power and earn rewards. The platform is open-source, EVM-compatible, and built to power scalable AI and smart contract applications.
+-----Nexus is a next-generation Layer 1  blockchain designed as a global, verifiable supercomputer for the AI era. It enables decentralized, trustless computation using zero-knowledge proofs via its custom zkVM. Developers and users can contribute compute power and earn rewards. The platform is open-source, EVM-compatible, and built to power scalable AI and smart contract applications.
 
 
 <div align="center">
